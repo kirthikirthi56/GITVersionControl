@@ -11,4 +11,4 @@ to delete the history of staged file
 
 git reset --head~1
 
-branch1
+abc
