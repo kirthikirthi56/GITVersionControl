@@ -1,0 +1,14 @@
+undo in local
+
+git checkout .
+git restore
+
+move file from stage to unstaging area
+
+git reset --soft logid
+
+to delete the history of staged file
+
+git reset --head~1
+
+
