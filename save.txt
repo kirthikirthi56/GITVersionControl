@@ -14,3 +14,5 @@ git reset --head~1
 abc
 
 in branch1
+
+super
